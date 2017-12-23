@@ -8,7 +8,7 @@ keywords: federal, government, procurement, acquisition, executive, consulting
 baseurl: ""
 url: https://stevekelman.com
 localhost: localhost:4000
-twitter_username: @KelmanSteve
+twitter_username: KelmanSteve
 
 # Build settings
 markdown: kramdown
@@ -19,3 +19,6 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
+
+sass:
+  style: compressed

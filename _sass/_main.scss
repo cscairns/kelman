@@ -1,0 +1,21 @@
+header {
+  background-image: linear-gradient(-90deg, #003d58, #0073a4);
+  color: white;
+  //padding: 15px 0 20px 60px;
+}
+
+header h1 {
+  font-size: 60px;
+  height: 130px;
+  position: relative;
+  display: block;
+}
+
+header h1 span {
+  position: absolute;
+}
+
+header h1 span.kelman {
+  top: 48px;
+  left: 35px;
+}
