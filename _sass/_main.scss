@@ -1,7 +1,6 @@
 header {
   background-image: linear-gradient(-90deg, #003d58, #0073a4);
   color: white;
-  //padding: 15px 0 20px 60px;
 }
 
 header h1 {
@@ -18,4 +17,12 @@ header h1 span {
 header h1 span.kelman {
   top: 48px;
   left: 35px;
+}
+
+.ad {
+  font-size: 1.6rem;
+}
+
+p {
+  font-size: 1.3rem;
 }
